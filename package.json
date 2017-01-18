@@ -1,5 +1,5 @@
 {
-  "name": "hello-common",
+  "name": "micro-common",
   "version": "1.0.0",
   "description": "Common utilities across the \"Micro\" project.",
   "main": "index.js",
